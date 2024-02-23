@@ -38,7 +38,6 @@ $(document).ready(function() {
                 alert("Por favor, ingresa valores numéricos válidos en ambos campos.");
             }
         
-            //funcion para mostrar la tabla
         })
 
 
